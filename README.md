@@ -1,2 +1,2 @@
-# Class-35-
-Sync ball movement :) 
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
